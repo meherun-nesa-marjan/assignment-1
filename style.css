@@ -1,0 +1,26 @@
+header{
+    font-family: "Azeret Mono", monospace;
+}
+.header-tittle{
+    display: flex;
+   margin: 50px 50px;
+   text-align: center;
+   justify-content: space-between;
+
+}
+.header-tittle-1{
+   font-size: 28px;
+   font-weight: bolder;
+}
+.header-tittle-2{
+
+}
+button{
+    height: 58px;
+    width: 196px;
+    border-radius: 4px;
+}
+button a{
+    text-decoration: none;
+    color: #000;
+}
