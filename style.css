@@ -100,7 +100,7 @@ main{
 }
 .why-us{
    
-    width: 1140px;
+    width: 946px;
     padding: 75px 90px;
     margin: auto;
     background-color: #fafafb;
@@ -157,8 +157,7 @@ main{
 .vedio-section-1{
     width: 1140px;
     margin: auto;
-   padding: 80px 97px;
-    background-color: aliceblue;
+   
    
 }
 .vedio-content{
@@ -216,4 +215,34 @@ iframe{
 }
 #bg-1{
     background-color: #fffdf2;
+}
+.next-target-2{
+    display: flex;
+    padding: 40px;
+    height: 125px;
+    width: 1060px;
+    border: #59595f solid 1px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+}
+.nt-img{
+  padding: 5px 25px 5px 0px;
+}
+.nt-img img{
+   max-height: 88px;
+   max-width: 143px;
+}
+.nt-text{
+    width: 941px;
+    height: 139px;
+  
+
+}
+#nt{
+   padding-left: 30px;
+
+}
+.nt-text a{
+    text-decoration: underline 2px;
+    color: #000;
 }
