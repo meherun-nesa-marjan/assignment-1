@@ -118,7 +118,7 @@ main{
     padding: 48px;
     margin: 16px;
     justify-content: center;
-    background-color: #fcfcfd ;
+    background-color: #fcfcfd;
     border-radius: 16px;
   
 }
@@ -291,6 +291,7 @@ form button{
 
 footer{
     margin-top: 50px;
+    margin-bottom: 50px;
     background: #f7f8f8;
 }
 .footer-content{
@@ -299,7 +300,7 @@ footer{
     display: flex;
     margin: auto;
    justify-content: space-between;
-   padding: 20px 25px;
+   padding: 23px 25px;
 }
 .foot-icon ul{
     display: flex;
