@@ -1,10 +1,7 @@
-header{
-    font-family: "Azeret Mono", monospace;
-  
-}
 body{
     margin: 0;
     padding: 0;
+    font-family: "Azeret Mono", monospace;
 }
 a{
     text-decoration: none;
@@ -28,6 +25,7 @@ a{
     height: 57px;
     width: 244px;
     border-radius: 8px;
+    background-color: #ffffff;
    
 }
 .btn a{
@@ -89,4 +87,53 @@ h1{
     font-size: 20px;
     padding: 21px 24px;
 }
+main{
+    margin-top: 30px;
+}
+.why-us{
+   
+    width: 1130px;
+    padding: 80px 97px;
+    margin: auto;
+    background-color: #fafafb;
+}
+.why-us-1{
+    text-align: center;
+    width: 852px;
+   margin: auto;
+   padding-bottom: 15px;
+  
+    
+}
+.why-us-sm{
+    display: flex;
+    padding: 48px;
+    margin: 16px;
+    justify-content: center;
+    background-color: #fcfcfd ;
+    border-radius: 16px;
+  
+}
+.btn-3{
+    width: 150px;
+    height: 48px;
+    padding: 12px;
+    background-color: #ffffff;
+}
+.btn-3 a{
+    color: #000;
+    font-weight: 500;
+}
+.why-us-text{
+    height: 220px;
+    width: 447px;
+   
 
+}
+.why-us-img{
+    width: 274px;
+    height: 220px;
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
